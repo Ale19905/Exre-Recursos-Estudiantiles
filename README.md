@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+D
 # exre_app
 
 A new Flutter project.
@@ -67,4 +67,4 @@ El código principal se encuentra dentro de lib/:
 - theme/: configuración visual.
 - main.dart: punto de entrada de la aplicación.
 
->>>>>>> 62661078a8bd282cdd2688539f296637eff6101f
+
